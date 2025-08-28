@@ -1,7 +1,7 @@
 # Hi there, I'm Lorenzo Colavecchi 👋
 
 <p align="center">
-  <a href="https://github.com/lorenzocolavecchi">
+  <a href="https://github.com/Bludnec">
     <img src="https://github-readme-stats.vercel.app/api?username=lorenzocolavecchi&show_icons=true&theme=radical" alt="Lorenzo's GitHub stats">
   </a>
 </p>
