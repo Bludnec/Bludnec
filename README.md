@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Bludnec">
-    <img src="https://github-readme-stats.vercel.app/api?username=lorenzocolavecchi&show_icons=true&theme=radical" alt="Lorenzo's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bludnec&show_icons=true&theme=radical" alt="Lorenzo's GitHub stats">
   </a>
 </p>
 
