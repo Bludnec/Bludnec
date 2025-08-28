@@ -1,14 +1,8 @@
 # Hi there, I'm Lorenzo Colavecchi 👋
 
-<p align="center">
-  <a href="https://github.com/Bludnec">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bludnec&show_icons=true&theme=radical" alt="Lorenzo's GitHub stats">
-  </a>
-</p>
-
 ## 👨‍💻 About Me
 
-I'm a Junior Software Developer passionate about building cool things.
+I'm a Software Developer passionate about building cool things.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -23,7 +17,7 @@ I'm a Junior Software Developer passionate about building cool things.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,java" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,django,postgresql" />
   </a>
 </p>
 
